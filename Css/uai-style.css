@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background: color red (233, 77, 5); /*Define el color de fondo (Naranja)*/
+    color:black;                        /*Color del texto (casi negro)*/
+    padding: 30px;                        /*Espacio interno al rededor del contenido*/
+}
+
+header {
+    background: color
+}
